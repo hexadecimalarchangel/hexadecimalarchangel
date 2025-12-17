@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="left"><img alt="gitavatar" src="https://github.com/hexadecimalarchangel/hexadecimalarchangel/blob/main/decor.png" /></p>
 
-# Greetings
+<h1 align="center"> Greetings <h1>
 
 ## language
 ![cpp](https://github.com/rinderukun/rinderukun/blob/866a7c68337e38e7b609078f92b6f27b02dc67c9/cpp.gif)
