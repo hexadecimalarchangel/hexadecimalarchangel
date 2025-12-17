@@ -1,4 +1,4 @@
-# Hehe hi! 👋
+<img width="214" height="214" alt="gitavatar" src="https://github.com/user-attachments/assets/cc00d124-8b9c-4045-8087-abf92df9efcf" /># Hehe hi! 👋
 
 <!--
 **rinderukun/rinderukun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![cpp](https://github.com/rinderukun/rinderukun/blob/e83ec0f7279460877b0e7bc6eb6be92aa5084a2d/python.gif)
+![cpp]([https://github.com/rinderukun/rinderukun/blob/e83ec0f7279460877b0e7bc6eb6be92aa5084a2d/python.gif](https://github.com/user-attachments/assets/cbe67237-a1be-42c8-bb09-3a99d33a1dd5))
+
 
 ## language
 ![cpp](https://github.com/rinderukun/rinderukun/blob/866a7c68337e38e7b609078f92b6f27b02dc67c9/cpp.gif)
