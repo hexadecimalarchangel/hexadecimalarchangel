@@ -1,4 +1,4 @@
-<img width="214" height="214" alt="gitavatar" src="https://github.com/user-attachments/assets/cc00d124-8b9c-4045-8087-abf92df9efcf" /># Hehe hi! 👋
+# Hehe hi! 👋
 
 <!--
 **rinderukun/rinderukun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<center><img width="214" height="214" alt="gitavatar" src="https://github.com/user-attachments/assets/cc00d124-8b9c-4045-8087-abf92df9efcf" /></center>
 ![decor](https://github.com/hexadecimalarchangel/hexadecimalarchangel/blob/main/decor.png)
 
 
