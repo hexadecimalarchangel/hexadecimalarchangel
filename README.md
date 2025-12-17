@@ -1,5 +1,3 @@
-# Hehe hi! 👋
-
 <!--
 **rinderukun/rinderukun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center><img width="214" height="214" alt="gitavatar" src="https://github.com/user-attachments/assets/cc00d124-8b9c-4045-8087-abf92df9efcf" /></center>
-![decor](https://github.com/hexadecimalarchangel/hexadecimalarchangel/blob/main/decor.png)
+<p align="left"><img alt="gitavatar" src="https://github.com/hexadecimalarchangel/hexadecimalarchangel/blob/main/decor.png" /></p>
 
+# Greetings
 
 ## language
 ![cpp](https://github.com/rinderukun/rinderukun/blob/866a7c68337e38e7b609078f92b6f27b02dc67c9/cpp.gif)
