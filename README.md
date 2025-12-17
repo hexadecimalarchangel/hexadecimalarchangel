@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![cpp]([https://github.com/rinderukun/rinderukun/blob/e83ec0f7279460877b0e7bc6eb6be92aa5084a2d/python.gif](https://github.com/user-attachments/assets/cbe67237-a1be-42c8-bb09-3a99d33a1dd5))
+![decor](https://github.com/hexadecimalarchangel/hexadecimalarchangel/blob/main/decor.png)
 
 
 ## language
