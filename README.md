@@ -75,11 +75,30 @@ GameDev
 - SFML
 - PyGame
 
+Остальная херня
+
 - Blender
 - Aseprite
 - Figma
 - Photoshop
 
+Маркдаун
+
 - Markdown
+
+Среды разработки
+
+- VS Code
+- Vim
+- NeoVim
+- Visual Studio
+- Android Studio
+- Sublime text
+- Pycharm
+
+Линуксы
+
+- Ubunty
+- Debian
 
 <p align="center"><img alt="gitavatar" src="https://github.com/hexadecimalarchangel/hexadecimalarchangel/blob/main/decorate_bottom.png?raw=true" /></p>
