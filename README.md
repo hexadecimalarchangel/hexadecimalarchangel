@@ -16,22 +16,63 @@ Here are some ideas to get you started:
 <p align="center"><img alt="gitavatar" src="https://github.com/hexadecimalarchangel/hexadecimalarchangel/blob/main/decorate.png?raw=true" /></p>
 
 
+
 <h1 align="center"> Greetings </h1>
+
+<h3> 🕯️ Introduction </h3>
 
 <p>Aspiring software engineer with a strong interest in computer science and low-level programming.
 Curious about how systems work internally and how code turns into real behavior.
 Learning by building small projects and experimenting with ideas.
 Slowly improving my understanding and code quality over time.</p>
 
+<h3> 🕯️ Skills </h3>
+
+<h4> Languages I use most </h4>
+
+- C++
+- C
+- Python
+
 <p align="center"><img alt="gitavatar" src="https://github.com/hexadecimalarchangel/hexadecimalarchangel/blob/main/langs.png?raw=true" /></p>
 
-<h2>Skills</h2>
+<h4> Technologies I've worked with / learning </h4>
 
-<h3>Languages</h3>
-Frontend/UI HTML CSS JQUERY
-Backend/Server .NET DJANGO
-Backend/Security 
-Microservices KAFKA
-Database mySQL
-Dev-Ops Doker Git
-Others Unity
+Languges
+
+- Java
+- Javascript
+- Ruby
+- 
+
+Frontend/UI
+
+- HTML
+- CSS
+- JQUERY
+- Bootstrap
+- QT5 / PyQT / Pyside2 / Pyside6
+- 
+
+Backend/Server
+- .NET
+- DJANGO
+- Ruby On Rails
+
+Database
+
+- mySQL
+- SQL Light
+
+Dev-Ops
+- Doker
+- Git
+
+GameDev
+
+- Unity
+- Godot
+- Renpy
+- RPGmakerMV
+- SFML
+- PyGame
