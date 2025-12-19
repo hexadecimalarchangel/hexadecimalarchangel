@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img alt="gitavatar" src="https://github.com/hexadecimalarchangel/hexadecimalarchangel/blob/main/decorate.png" /></p>
+<p align="center"><img alt="gitavatar" src="https://github.com/hexadecimalarchangel/hexadecimalarchangel/blob/main/langs.png" /></p>
 
 
 <h1 align="center"> Greetings </h1>
