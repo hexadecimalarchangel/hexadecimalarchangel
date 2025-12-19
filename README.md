@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img alt="gitavatar" src="https://github.com/hexadecimalarchangel/hexadecimalarchangel/blob/main/langs.png" /></p>
+<p align="center"><img alt="gitavatar" src="https://github.com/hexadecimalarchangel/hexadecimalarchangel/blob/main/decorate.png?raw=true" /></p>
 
 
 <h1 align="center"> Greetings </h1>
@@ -23,7 +23,7 @@ Curious about how systems work internally and how code turns into real behavior.
 Learning by building small projects and experimenting with ideas.
 Slowly improving my understanding and code quality over time.</p>
 
-<p align="center"><img alt="gitavatar" src="https://github.com/hexadecimalarchangel/hexadecimalarchangel/blob/main/langs.png" /></p>
+<p align="center"><img alt="gitavatar" src="https://github.com/hexadecimalarchangel/hexadecimalarchangel/blob/main/langs.png?raw=true" /></p>
 
 <h2>Skills</h2>
 
