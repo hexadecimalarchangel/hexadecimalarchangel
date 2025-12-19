@@ -31,7 +31,6 @@ Slowly improving my understanding and code quality over time.</p>
 <h4> Languages I use most </h4>
 
 <p align="left"><img alt="gitavatar" src="https://github.com/hexadecimalarchangel/hexadecimalarchangel/blob/main/langs.png?raw=true" /></p>
-<p align="left">Python • C++ • C</p>
 
 <h4> Technologies I've worked with / learning </h4>
 
