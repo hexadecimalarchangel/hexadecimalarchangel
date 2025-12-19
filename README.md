@@ -106,8 +106,6 @@ GameDev
 
 -->
 
-### Technologies I've worked with / learning
-
 #### Languages
 Java, JavaScript, Ruby, Arduino
 
