@@ -112,7 +112,7 @@ GameDev
 Java, JavaScript, Ruby, Arduino
 
 #### Frontend / UI
-HTML, CSS, jQuery, Bootstrap, Qt5 / PyQt / PySide2 / PySide6, JSON, XML
+HTML, CSS, jQuery, Bootstrap, Qt5 / PyQt / PySide2 / PySide6, JSON, XML, Markdown
 
 #### Backend / Server
 .NET, Django, Ruby on Rails
@@ -128,9 +128,6 @@ Unity, Godot, Ren'Py, RPG Maker MV, SFML, Pygame
 
 #### Other Software
 Blender, Aseprite, Figma, Photoshop
-
-#### Markdown
-Markdown
 
 #### IDEs / Editors
 VS Code, Vim, NeoVim, Visual Studio, Android Studio, Sublime Text, PyCharm
