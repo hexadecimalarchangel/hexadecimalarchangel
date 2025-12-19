@@ -80,4 +80,6 @@ GameDev
 - Figma
 - Photoshop
 
+- Markdown
+
 <p align="center"><img alt="gitavatar" src="https://github.com/hexadecimalarchangel/hexadecimalarchangel/blob/main/decorate_bottom.png?raw=true" /></p>
