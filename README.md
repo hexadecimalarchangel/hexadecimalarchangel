@@ -34,6 +34,8 @@ Slowly improving my understanding and code quality over time.</p>
 
 <h4> Technologies I've worked with / learning </h4>
 
+<--
+
 Languges
 
 - Java
@@ -101,5 +103,39 @@ GameDev
 - Debian
 
 Как это сделать аккуратно то блинбли
+
+-->
+
+## Technologies I've worked with / learning
+
+### Languages
+Java, JavaScript, Ruby, Arduino
+
+### Frontend / UI
+HTML, CSS, jQuery, Bootstrap, Qt5 / PyQt / PySide2 / PySide6, JSON, XML
+
+### Backend / Server
+.NET, Django, Ruby on Rails
+
+### Database
+MySQL, SQLite
+
+### DevOps / Tools
+Docker, Git
+
+### Game Development
+Unity, Godot, Ren'Py, RPG Maker MV, SFML, Pygame
+
+### Other Software
+Blender, Aseprite, Figma, Photoshop
+
+### Markdown
+Markdown
+
+### IDEs / Editors
+VS Code, Vim, NeoVim, Visual Studio, Android Studio, Sublime Text, PyCharm
+
+### Linux
+Ubuntu, Debian
 
 <p align="center"><img alt="gitavatar" src="https://github.com/hexadecimalarchangel/hexadecimalarchangel/blob/main/decorate_bottom.png?raw=true" /></p>
