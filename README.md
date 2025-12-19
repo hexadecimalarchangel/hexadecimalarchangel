@@ -34,7 +34,7 @@ Slowly improving my understanding and code quality over time.</p>
 
 <h4> Technologies I've worked with / learning </h4>
 
-<--
+<!--
 
 Languges
 
@@ -106,36 +106,36 @@ GameDev
 
 -->
 
-## Technologies I've worked with / learning
+### Technologies I've worked with / learning
 
-### Languages
+#### Languages
 Java, JavaScript, Ruby, Arduino
 
-### Frontend / UI
+#### Frontend / UI
 HTML, CSS, jQuery, Bootstrap, Qt5 / PyQt / PySide2 / PySide6, JSON, XML
 
-### Backend / Server
+#### Backend / Server
 .NET, Django, Ruby on Rails
 
-### Database
+#### Database
 MySQL, SQLite
 
-### DevOps / Tools
+#### DevOps / Tools
 Docker, Git
 
-### Game Development
+#### Game Development
 Unity, Godot, Ren'Py, RPG Maker MV, SFML, Pygame
 
-### Other Software
+#### Other Software
 Blender, Aseprite, Figma, Photoshop
 
-### Markdown
+#### Markdown
 Markdown
 
-### IDEs / Editors
+#### IDEs / Editors
 VS Code, Vim, NeoVim, Visual Studio, Android Studio, Sublime Text, PyCharm
 
-### Linux
+#### Linux
 Ubuntu, Debian
 
 <p align="center"><img alt="gitavatar" src="https://github.com/hexadecimalarchangel/hexadecimalarchangel/blob/main/decorate_bottom.png?raw=true" /></p>
