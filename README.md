@@ -30,11 +30,8 @@ Slowly improving my understanding and code quality over time.</p>
 
 <h4> Languages I use most </h4>
 
-- C++
-- C
-- Python
-
 <p align="center"><img alt="gitavatar" src="https://github.com/hexadecimalarchangel/hexadecimalarchangel/blob/main/langs.png?raw=true" /></p>
+<p align="center">Python • C++ • C</p>
 
 <h4> Technologies I've worked with / learning </h4>
 
@@ -43,7 +40,7 @@ Languges
 - Java
 - Javascript
 - Ruby
-- 
+- Arduino
 
 Frontend/UI
 
@@ -52,7 +49,8 @@ Frontend/UI
 - JQUERY
 - Bootstrap
 - QT5 / PyQT / Pyside2 / Pyside6
-- 
+- JSON
+- XML
 
 Backend/Server
 - .NET
@@ -76,5 +74,10 @@ GameDev
 - RPGmakerMV
 - SFML
 - PyGame
+
+- Blender
+- Aseprite
+- Figma
+- Photoshop
 
 <p align="center"><img alt="gitavatar" src="https://github.com/hexadecimalarchangel/hexadecimalarchangel/blob/main/decorate_bottom.png?raw=true" /></p>
