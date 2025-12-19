@@ -101,4 +101,6 @@ GameDev
 - Ubunty
 - Debian
 
+Как это сделать аккуратно то блинбли
+
 <p align="center"><img alt="gitavatar" src="https://github.com/hexadecimalarchangel/hexadecimalarchangel/blob/main/decorate_bottom.png?raw=true" /></p>
